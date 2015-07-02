@@ -1,0 +1,9 @@
+gulpfile.js
+.editorconfig
+.jshintrc
+link/
+node_modules/
+bower_components/
+.DS_Store
+app/npm-debug.log
+app/components/

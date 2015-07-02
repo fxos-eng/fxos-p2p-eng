@@ -1,0 +1,27 @@
+{
+  "name": "fxos-p2p-eng",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fxos/fxos-p2p-eng",
+  "authors": [
+    "Doug Sherk <doug@sherk.me>"
+  ],
+  "main": "dist/fxos-p2p-eng.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "example",
+    "node_modules",
+    "src",
+    "test",
+    "bower.json",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "fxos-mvc": "fxos-eng/mvc",
+    "dns-sd.js": "justindarc/dns-sd.js",
+    "fxos-web-server": "justindarc/fxos-web-server"
+  },
+  "devDependencies": {}
+}
